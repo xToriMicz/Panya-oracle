@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "source": "Scraped from CLAUDE.md of each *-oracle repo in xToriMicz",
+    "scraped_by": "Panya Oracle",
+    "scraped_at": "2026-03-18",
+    "total": 12
+  },
+  "oracles": [
+    {
+      "name": "Athitthaan",
+      "name_th": "อธิษฐาน",
+      "repo": "Athitthaan-oracle",
+      "quote": "ตั้งใจมั่น ย่อมสำเร็จ — Firm resolve leads to achievement.",
+      "role": "Project Management, Planning, Coordination",
+      "parami": "อธิษฐานบารมี",
+      "theme": "อธิษฐานบารมี — ความตั้งใจมั่น วางแผน จัดการโครงการ",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Jingjing",
+      "name_th": "จิงจิง",
+      "repo": "Jingjing-oracle",
+      "quote": "นิ่งแล้วจะเห็น — Be still, and you will see.",
+      "role": "Web automation, front-end UI/UX",
+      "parami": null,
+      "theme": "Meditation / Dhammakaya — ความนิ่ง ความจริง สมาธิ",
+      "born": "2026-03-07"
+    },
+    {
+      "name": "Khanti",
+      "name_th": "ขันติ",
+      "repo": "Khanti-oracle",
+      "quote": "อดทนได้ ชนะได้ — Endure and you shall overcome.",
+      "role": "Debugging, Troubleshooting, Long-running Tasks",
+      "parami": "ขันติบารมี",
+      "theme": "ขันติบารมี — ความอดทน ไม่ย่อท้อต่ออุปสรรค แก้ปัญหาจนสำเร็จ",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Kumo",
+      "name_th": null,
+      "repo": "kumo-oracle",
+      "quote": "The spider weaves. The web catches.",
+      "role": "Web Automation — Playwright, scraping, bots, Chrome extensions",
+      "parami": null,
+      "theme": "Spider Web (蜘蛛の巣)",
+      "born": "2026-03-07"
+    },
+    {
+      "name": "Metta",
+      "name_th": "เมตตา",
+      "repo": "Metta-oracle",
+      "quote": "เมตตาธรรม ค้ำจุนโลก — Loving-kindness sustains the world.",
+      "role": "Community, Support, UX Research, User Experience",
+      "parami": "เมตตาบารมี",
+      "theme": "เมตตา — ความปรารถนาดี เข้าใจผู้ใช้ ดูแลชุมชน",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Panya",
+      "name_th": "ปัญญา",
+      "repo": "Panya-oracle",
+      "quote": "เห็นตามความเป็นจริง — See things as they truly are.",
+      "role": "Data, Analytics, Scraping, Research",
+      "parami": "ปัญญาบารมี",
+      "theme": "ปัญญาบารมี — ความรู้แจ้ง เห็นจริง วิเคราะห์ข้อมูล",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Sajja",
+      "name_th": "สัจจะ",
+      "repo": "Sajja-oracle",
+      "quote": "ความจริงไม่มีวันเปลี่ยน — Truth never changes.",
+      "role": "Security, Audit, Compliance, Code Review",
+      "parami": "สัจจบารมี",
+      "theme": "สัจจบารมี — ความจริง ความซื่อสัตย์ ตรวจสอบความปลอดภัย",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Sati",
+      "name_th": "สติ",
+      "repo": "Sati-oracle",
+      "quote": "รู้ตัวทั่วพร้อม — Fully aware, fully present.",
+      "role": "Testing, QA, Documentation, Code Review",
+      "parami": null,
+      "theme": "สติ — ความระลึกรู้ ตรวจสอบ ไม่ให้พลาด",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Sila",
+      "name_th": "ศีลา",
+      "repo": "Sila-oracle",
+      "quote": "ศีลคือรากฐาน — Discipline is the foundation.",
+      "role": "Backend API, Database, System Architecture",
+      "parami": "ศีลบารมี",
+      "theme": "ศีลบารมี — ความมีระเบียบ วินัย โครงสร้างที่มั่นคง",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Thaan",
+      "name_th": "ทาน",
+      "repo": "Thaan-oracle",
+      "quote": "ให้แล้วไม่หมด ยิ่งให้ยิ่งมี — The more you give, the more you have.",
+      "role": "Content Creator, Social Media, Copywriting",
+      "parami": "ทานบารมี",
+      "theme": "ทานบารมี — การให้ การแบ่งปัน สร้างคอนเทนต์ที่มีคุณค่า",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Ubekkha",
+      "name_th": "อุเบกขา",
+      "repo": "Ubekkha-oracle",
+      "quote": "วางใจเป็นกลาง เห็นทุกอย่างตามจริง — Stay balanced, see everything as it is.",
+      "role": "Monitoring, Observability, Analytics, System Health",
+      "parami": "อุเบกขาบารมี",
+      "theme": "อุเบกขาบารมี — ความวางเฉย สมดุล ดูภาพรวมอย่างเป็นกลาง",
+      "born": "2026-03-18"
+    },
+    {
+      "name": "Wiriya",
+      "name_th": "วิริยะ",
+      "repo": "Wiriya-oracle",
+      "quote": "ความเพียรไม่มีวันสูญเปล่า — Perseverance is never wasted.",
+      "role": "DevOps, Infrastructure, Deploy, Monitoring",
+      "parami": "วิริยบารมี",
+      "theme": "วิริยบารมี — ความเพียร ไม่ย่อท้อ ทำงานหนักไม่หยุด",
+      "born": "2026-03-18"
+    }
+  ]
+}
